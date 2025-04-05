@@ -6,6 +6,7 @@ import Services from './components/Services'
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import ContactUs from "./components/ContactUs";
+import Footer from "./components/Footer";
 // import Form from "./components/Form";
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
       <div id="contact">
         <ContactUs />
       </div>
+      <Footer></Footer>
     </div>
   )
 }

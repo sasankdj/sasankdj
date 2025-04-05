@@ -63,10 +63,19 @@ const Home = () => {
         animate={{ opacity: 1 }} 
         transition={{ duration: 1, delay: 1.3 }}
       >
-        <FaWhatsapp className='hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300' />
-        <FaFacebookSquare className='hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300' />
-        <FaInstagram className='hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300' />
-        <FaGithub className='hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300' />
+        <a href="https://wa.me/8919636850" target="_blank" rel="noopener noreferrer">
+  <FaWhatsapp className="hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300" />
+</a>
+<a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer">
+  <FaFacebookSquare className="hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300" />
+</a>
+<a href="https://instagram.com/sasank_dj" target="_blank" rel="noopener noreferrer">
+  <FaInstagram className="hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300" />
+</a>
+<a href="https://github.com/sasankdj" target="_blank" rel="noopener noreferrer">
+  <FaGithub className="hover:bg-[rgb(54,188,195)] hover:text-black p-2 rounded-full transition duration-300" />
+</a>
+
       </motion.div>
     </div>
   );
