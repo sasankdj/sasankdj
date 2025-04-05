@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="bg-gray-900 text-white p-4 fixed w-full z-50 shadow-md">
       <div className="flex justify-between items-center px-5 md:px-10 lg:px-20">
         {/* Portfolio Title */}
-        <a href="#" className="text-xl md:text-2xl font-bold">Sasank Portfolio</a>
+        <a href="#" className="text-xl md:text-3xl font-bold font-[cursive]">Sasank Portfolio</a>
 
         {/* Hamburger Icon (Visible on Mobile) */}
         <button
@@ -19,7 +19,7 @@ const Navbar = () => {
         </button>
 
         {/* Navbar Links (Show on Large Screens, Toggle on Mobile) */}
-        <ul className={`absolute md:static top-16 left-0 w-full md:w-auto bg-gray-900 md:bg-transparent flex flex-col md:flex-row md:space-x-6 text-center md:text-left transition-all duration-300 ${isOpen ? 'block' : 'hidden md:flex'}`}>
+        <ul className={`absolute md:static top-16 left-0 w-full md:w-auto bg-gray-900 md:bg-transparent font-bold font-[cursive] flex flex-col md:flex-row md:space-x-6 text-center md:text-left transition-all duration-300 ${isOpen ? 'block' : 'hidden md:flex'}`}>
           <li><a href="#home" className="block py-2 px-4 hover:text-gray-400">Home</a></li>
           <li><a href="#about" className="block py-2 px-4 hover:text-gray-400">About</a></li>
           <li><a href="#services" className="block py-2 px-4 hover:text-gray-400">Services</a></li>
