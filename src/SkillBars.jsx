@@ -16,7 +16,12 @@ const skills = [
 const SkillBars = () => {
   return (
     <div className="w-3/4 mx-auto mt-10 text-white">
-      <h2 className="text-3xl font-bold text-center mb-6 text-white shadow-[rgb(54,188,195)] shadow-2xl">Technical Skills</h2>
+ <div className='text-center mb-8'>
+          <h1 className='text-5xl font-extrabold mb-2'>
+            Technical<span className='text-[rgb(54,188,195)]'> Skills</span>
+          </h1>
+        
+        </div>
       {skills.map((skill, index) => (
         <div key={index} className="mb-4">
           <div className="flex items-center justify-between mb-1">

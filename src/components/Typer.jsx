@@ -6,7 +6,7 @@ const MyComponent = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ['Web Developer', 'Data Analyst',"Frontend Developer","Backend Developer"],
+      strings: ['Web Developer', 'Data Analyst'],
       typeSpeed: 80,
       backSpeed: 30,
       loop: true, // Enables looping of the animation

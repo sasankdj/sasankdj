@@ -84,8 +84,7 @@ const Home = () => {
         transition={{
           duration: 3,
           delay: 1.5,
-          repeat: Infinity,
-          repeatType: "loop",
+          
         }}
       >
         <img

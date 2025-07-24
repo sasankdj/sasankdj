@@ -42,7 +42,12 @@ const Projects = () => {
   return (
     <div className="w-full py-12 bg-[rgb(12,29,44)] text-white">
       <div className="text-center mb-10">
-        <h2 className="text-4xl font-bold text-[rgb(54,188,195)]">My Projects</h2>
+      <div className='text-center mb-8'>
+          <h1 className='text-5xl font-extrabold mb-2'>
+            MY <span className='text-[rgb(54,188,195)]'>Projects</span>
+          </h1>
+        
+        </div>
         <p className="text-lg mt-4 text-gray-300">A collection of some of my most recent projects</p>
       </div>
 

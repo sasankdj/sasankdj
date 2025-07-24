@@ -13,9 +13,12 @@ const Services = () => {
 
   return (
     <div className='bg-[rgb(12,29,44)] text-white min-h-screen'>
-      <h1 className='text-5xl flex justify-center underline pb-10 shadow-[rgb(54,188,195)] shadow-2xl'>
-        Services
-      </h1>
+       <div className='text-center mb-8'>
+          <h1 className='text-5xl font-extrabold mb-2'>
+            Services<span className='text-[rgb(54,188,195)]'> Provided</span>
+          </h1>
+        
+        </div>
 
       <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 p-6 gap-10 m-3 text-white'>
 
