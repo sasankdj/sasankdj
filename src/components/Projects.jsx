@@ -32,6 +32,22 @@ const projects = [
     image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1350&q=80",
     link: "https://github.com/sasankdj/Book-store-app",
   },
+  {
+  title: "Drowsiness Detection System",
+  description:
+    "A computer vision‑based system that detects driver drowsiness in real time using OpenCV and facial landmark detection. Enhances road safety by alerting users when signs of fatigue are detected.",
+  image: "https://www.labellerr.com/blog/content/images/2024/11/driver_drowsiness_detection.webp",
+  link: "https://github.com/sasankdj/Drowsiness-Detection-System",
+},
+{
+  title: "Water Quality Prediction",
+  description:
+    "A machine learning model that predicts water potability using physicochemical parameters. Includes data preprocessing, model training (e.g., logistic regression, decision trees), and visualization of feature importance.",
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EhfDXYyS6SYCOQxq0DkgDHWEmVjyUhHdmA&s",
+  link: "https://waterqualityprediction-2025.streamlit.app/",
+},
+
+
 ];
 
 const Projects = () => {
