@@ -1,71 +1,76 @@
 # 👋 Hi, I'm Sasank Kota
 
-## 💻 Web Developer | 📊 Data Analyst | 🚀 Problem Solver
+## 💻 Full Stack MERN Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
 
-I’m a 3rd-year Computer Science student from India, deeply passionate about building modern web applications and turning data into actionable insights. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences and data-driven applications.
+I’m a 3rd-year Computer Science Engineering student from India, passionate about building **scalable web applications** and integrating **AI-powered features** to improve performance and efficiency.  
+With experience across both **frontend** and **backend**, I love crafting seamless user experiences and turning ideas into real, impactful products.
 
 ---
 
 ## 🔍 What I’m Great At
 
 ### 💻 Web Development  
-React • Vue • GSAP • Node.js • Express • REST APIs • Tailwind CSS • MongoDB • Firebase • Next.js  
+React.js • Next.js • Node.js • Express.js • MongoDB • REST APIs • Tailwind CSS • Firebase  
 
-### 📊 Data Analytics & Visualization  
-Python • Pandas • Seaborn • Matplotlib • Scikit-learn • Tableau • Power BI • SQL  
+### 🤖 AI & Automation  
+OpenAI API • ChatGPT • GitHub Copilot • LangChain  
 
 ### 🛠️ Tools & Platforms  
-Git • GitHub • Docker • Figma • Postman • Firebase • VSCode • Linux  
+Git • GitHub • Postman • Vercel • Figma • VSCode • Linux  
 
 ---
 
-## 🚀 Projects That Show What I Can Do
+## 🚀 Featured Projects
 
-### 🌟 Portfolio Generator  
-A customizable static site generator for building personal portfolios.  
-**Tech:** React, Tailwind CSS, JSON schema, GitHub Pages  
-🔗 [Live Demo](#) • [Source Code](#)
+### 🛍️ [E-Commerce Website](https://sasankdj.github.io/cloth-store/)  
+A full-stack e-commerce web app with authentication, product catalog, and cart functionality.  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+- Reduced product retrieval time by **40%** through optimized REST APIs.
 
-### 📈 Sales Insights Dashboard  
-An interactive dashboard for visualizing sales trends and KPIs.  
-**Tech:** Python, Pandas, Matplotlib, Power BI  
-🔗 [View Project](#) • [Source Code](#)
+---
 
-### 💬 DevConnect (Open to Collaboration)  
-A developer-focused social networking app to share resources and connect.  
-**Tech:** Vue, Firebase, Firestore, Vuetify  
-🤝 Looking for: Frontend collaborators  
-🔗 [View Repo](#)
+### 💼 [Portfolio Generator](https://portfolio-generator-f.vercel.app/)  
+A full-stack web app that lets users create and customize personal portfolios.  
+**Tech:** React, Node.js, Express, MongoDB  
+- Optimized API calls to reduce rendering time by **35%**.
+
+---
+
+### 🚗 [Drowsiness Detection System](https://github.com/sasankdj/Drowsiness-detection-system)  
+A real-time driver drowsiness detection system using computer vision and facial landmarks.  
+**Tech:** Python, OpenCV  
+- Detects eye closure and triggers fatigue alerts in real time.
 
 ---
 
 ## 📚 Currently Learning
-- 📦 Next.js and server-side rendering  
-- 🤖 AI in Web (LLMs, LangChain)  
-- 💼 Advanced SQL and Data Warehousing  
+- 📦 Advanced Next.js and server-side rendering  
+- ⚙️ System design and API optimization  
+- 🤖 Building AI-integrated applications using LangChain  
 
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: kotasasank123@gmail.com  
-- 🌐 Portfolio: [your-portfolio.com](https://sasankdj.github.io/Sasank-portfolio/)
-- 🔗 LinkedIn: [linkedin.com/in/sasank_dj](https://www.linkedin.com/in/kota-sasank-301472276/)  
-- 🐙 GitHub: [github.com/sasankdj](https://github.com/sasankdj)
+- 📧 Email: [kotasasank123@gmail.com](mailto:kotasasank123@gmail.com)  
+- 🌐 Portfolio: [sasankdj.github.io/sasankdj](https://sasankdj.github.io/sasankdj/)  
+- 🔗 LinkedIn: [linkedin.com/in/kota-sasank-301472276](https://www.linkedin.com/in/kota-sasank-301472276/)  
+- 🐙 GitHub: [github.com/sasankdj](https://github.com/sasankdj)  
+- 🧩 LeetCode: [leetcode.com/u/A8Y954ivzZ/](https://leetcode.com/u/A8Y954ivzZ/)  
 
 ---
 
-## ✨ Why You Should Hire Me
+## ✨ Why Work With Me
 
-- ✅ I **solve real-world problems** using modern tech  
-- ✅ I’m **proactive**, constantly learning, and love collaboration  
-- ✅ I bring both **technical skill** and **design sensibility**  
-- ✅ I build things that are **useful, elegant, and scalable**
+- ✅ I build **real-world, scalable applications** using modern web tech  
+- ✅ I integrate **AI tools** to enhance speed and productivity  
+- ✅ I write **clean, maintainable, and efficient code**  
+- ✅ I’m always **learning, improving, and collaborating**  
 
 ---
 
 ## 📄 Resume
-📥 [Download Resume](#)
+📥 [View My Resume](https://sasankdj.github.io/sasankdj/)
 
 ---
 
-
+⭐ **“Code. Learn. Build. Repeat.”**
